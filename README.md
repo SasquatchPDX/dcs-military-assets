@@ -2,7 +2,7 @@
 
 Updated 24 November 2026. This catalogue tracks community-made DCS World asset mods and their sources. An **index** points to a collection or release thread. A **legacy** link may point to an older release. Simulator compatibility, archive contents, and reuse rights vary by author.
 
-[Repositories and packs](#major-repositories-and-packs) · [Ground units](#ground-units) · [Naval assets](#naval-assets) · [Aircraft](#aircraft) · [Helicopters](#helicopters) · [Scenery and statics](#scenery-and-statics)
+[Repositories and packs](#major-repositories-and-packs) · [Ground units](#ground-units) · [Naval assets](#naval-assets) · [Aircraft](#aircraft) · [Helicopters](#helicopters) · [Liveries and repaints](#liveries-and-repaints) · [Scenery and statics](#scenery-and-statics)
 
 ## Major repositories and packs
 
@@ -53,6 +53,8 @@ Currenthill examples (all via https://www.currenthill.com/): T-90M, T-90A, T-84 
 | HMS Hermes R12 by Joey45 | [Author listing](https://files.digitalcombatsimulator.com/en/files/3335915/). Includes commando-carrier and STOVL refits |
 | Balao-class submarine by pikes | [Author listing](https://files.digitalcombatsimulator.com/en/files/3351661/). 1945 fit with three liveries |
 | DCS Brazilian Navy v0.4-alpha | [Author release](https://github.com/ygorma/DCS-Brazilian-Navy/releases/tag/v0.4-alpha) · [ZIP](https://github.com/ygorma/DCS-Brazilian-Navy/releases/download/v0.4-alpha/DCS.Brazilian.Navy.zip). Includes Atlântico, Bahia, Garcia d'Ávila, frigates and patrol ships |
+| James's Cold War Vessels v0.0.6 | [Author release](https://github.com/tspindler-cms/james-cwv/releases/tag/CWV_0.0.6) · [ZIP](https://github.com/tspindler-cms/james-cwv/releases/download/CWV_0.0.6/James.ColdWarVessels.0.0.6.zip). Includes USS Enterprise variants, Iowa, New Jersey, Arleigh Burke and support vessels |
+| Clemenceau and Super Étendard | [Author release thread](https://forum.dcs.world/topic/381078-super-etendard-et-class-clemenceau-pack-2921-2025-by-eric-and-patrick/) · [Download page](https://www.mediafire.com/file/lm7dmfjrcufuggn/E%26P_SUPER_ETENDARD_et_CLASS_CLEMENCEAU_PACK_2.9.21_2025.zip/file) |
 
 ## Aircraft
 
@@ -80,11 +82,13 @@ Currenthill examples (all via https://www.currenthill.com/): T-90M, T-90A, T-84 
 | F-104 | https://e.pcloud.link/publink/show?code=XZBwqnZIVj6BQtQBKyf7DKCGz9sYsaV7M7 |
 | F-8, MiG-17F | https://github.com/tspindler-cms/tetet-vwv/releases |
 | SK60 | https://github.com/BAAS-Dynamic/DCS-SK60-Mod/releases |
-| MiG-23UB, Mirage F1, Alpha Jet, AC-130, Bell 47G | https://github.com/DCS-Skunkworks/dcs-bios (reference only; not a model download; locate actual mod separately) |
-| Lancaster, PBY Catalina | https://github.com/DaKerboul/awesome-dcs-world#asset--unit-packs (index) |
+| MiG-23UB, Mirage F1, Alpha Jet, AC-130 | https://github.com/DCS-Skunkworks/dcs-bios (reference only; not a model download; locate actual mod separately) |
+| Tallboy Sims Lancaster RC17 (AI) | [Author site](https://www.tallboy-sims.com/) · [ZIP](https://www.tallboy-sims.com/latest/AI_Lancaster_RC17.zip) |
+| PBY Catalina | https://github.com/DaKerboul/awesome-dcs-world#asset--unit-packs (index) |
 | Mitsubishi G3M, Ju 87, Hindenburg | https://forum.dcs.world/topic/254795-wwii-axis-aircraft/ |
 | WWII Axis aircraft archive | https://www.dropbox.com/s/rudz7tg0n10q57u/WWII%20Axis%20Aircraft%20Part%201.rar?dl=0 |
 | Fairey Firefly FR.1/NF.1 (AI) | [Author listing](https://files.digitalcombatsimulator.com/en/files/3351571/) |
+| VSN F9F-5 Panther | [Author release thread](https://forum.dcs.world/topic/337318-vsn-f-9f5-panther-efm-fc3/). The v2.8.7.101 release calls for FC3 |
 | Battle of Britain 1940 AI Pack 2.9.24 | [Author release thread](https://forum.dcs.world/topic/385493-news-2026-ai-pack-1940-battle-of-britain-2924/) · [Download page](https://www.mediafire.com/file/tx04i5jqbtko770/AI+PACK+1940++BATTLE+OF+BRITAIN+2.9.24.zip/file). Includes Hurricane and Ju 87 AI aircraft |
 | HalfScience Saab J35 Draken (AI) | [Author listing](https://files.digitalcombatsimulator.com/en/files/3348805/). Non-animated AI model |
 | Cowboy's Magic Collection (AI) | [Author release thread](https://forum.dcs.world/topic/294056-cowboys-magic-collection-ai-only-aewc-and-isr-mods/). E-7A Wedgetail, P-8 Poseidon, M28 Skytruck, MC-145 and An-28 |
@@ -101,7 +105,14 @@ Currenthill examples (all via https://www.currenthill.com/): T-90M, T-90A, T-84 
 | AH-1G | https://discord.gg/HsW8BdUCr8 (community invite) |
 | OH-6A | https://discord.gg/zMjzfJuk26 (community invite) |
 | UH-1B/C | https://letsflyvfr.com/best-dcs-world-freeware-mods-2025-aircraft-helicopters-ground-units-graphics-upgrades/ (guide) |
+| Bell 47G (legacy) | [Author thread](https://forum.dcs.world/topic/272270-bell-47-flyable-helicopter/). The original download link is obsolete |
 | Eight Ball Sea King (AI) | [Author release thread](https://forum.dcs.world/topic/346587-ai-seaking-mod-sh-3h-mk48/). SH-3H and Mk.48 variants |
+
+## Liveries and repaints
+
+| Asset | Release page |
+|---|---|
+| Calarreona UH-1H Cockpit & Exterior Repaint | [Author release v1.0.0](https://github.com/Calarreona/UH-1-REPAINT/releases/tag/v1.0.0) · [ZIP](https://github.com/Calarreona/UH-1-REPAINT/releases/download/v1.0.0/uh-1.zip). Requires the DCS UH-1H module |
 
 ## Scenery and statics
 
@@ -135,7 +146,7 @@ https://github.com/necr0n/dcs-make-flyable — A-50, An-26B, KC-135MPRS, MQ-1A, 
 
 ## Acquisition notes
 
-Keep original archives, source URLs, version, author and license. Check required DCS modules, simulator version and duplicate unit names before installing. Prefer official release pages over third-party mirrors. This is a source catalogue, not a verified manifest of archive contents. Do not redistribute DCS assets or assume they can be ported to Godot.
+Keep original archives, source URLs, version, author and license. Check required DCS modules, simulator version and duplicate unit names before installing. Prefer author release pages. Follow the author's terms for redistribution and use in other engines, including Godot.
 
 ## Suggest a link
 
